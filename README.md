@@ -21,19 +21,11 @@ Contributing to this repository isn't just about sharing links; it’s about **g
 
 | Company | Industry / Track | Location | Careers Portal Link | Added By |
 | :--- | :--- | :--- | :--- | :--- |
-| **Google** | Software / Tech | Remote / Global | [View Google Careers](https://www.google.com/about/careers/applications/) | [@YourUsername](https://github.com/YourUsername) |
-| **Nvidia** | Data Science / Product | US / Hybrid | [View Nvidia Career Portal](https://jobs.nvidia.com/careers) | [@YourUsername](https://github.com/YourUsername) |
+| **Google** | Software, etc / Tech | Remote/hybrid/On-Site / Global| [View Google Careers](https://www.google.com/about/careers/applications/) | @tjxshihouin-crypto
+| **Nvidia** | Software, etc / Tech | Remote/hybrid/On-Site / Global | [View Nvidia Careers](https://jobs.nvidia.com/careers) | @tjxshihouin-crypto
+| **Microsoft** | Software, etc / Tech | Remote/hybrid/On-Site / Global | [View Microsoft Careers](https://careers.microsoft.com/v2/global/en/home.html) | @tjxshihouin-crypto
+| **Apple** | Software, etc / Tech | Remote/hybrid/On-Site / Global | [View Apple Careers](https://jobs.apple.com/en-us/search) | @tjxshihouin-crypto
+| **Nintendo** | Software, etc / Tech | Remote/hybrid/On-Site / Global | [View Nintendo Careers](https://careers.nintendo.com) | @tjxshihouin-crypto
+| **Nintendo** | Software, etc / Tech | Remote/hybrid/On-Site / Global | [View Nintendo Careers](https://careers.nintendo.com) | @tjxshihouin-crypto
 
-*(Want to add a company? Check out the contribution guide below!)*
 
----
-
-## 🛠️ How to Contribute & Gain "XP"
-
-We welcome all contributions! Follow these quick steps to add a career portal and get your PR merged:
-
-1. **Fork this repository** to your own GitHub account.
-2. **Clone your fork** locally or edit files directly on GitHub:
-   ```bash
-   git clone [https://github.com/YOUR-USERNAME/career-portal.git](https://github.com/YOUR-USERNAME/career-portal.git)
-   cd career-portal
