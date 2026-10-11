@@ -21,8 +21,8 @@ Contributing to this repository isn't just about sharing links; it’s about **g
 
 | Company | Industry / Track | Location | Careers Portal Link | Added By |
 | :--- | :--- | :--- | :--- | :--- |
-| **Example Corp** | Software / Tech | Remote / Global | [View Portals](https://example.com/careers) | [@YourUsername](https://github.com/YourUsername) |
-| **Tech Labs** | Data Science / Product | US / Hybrid | [View Portals](https://example.com/careers) | [@YourUsername](https://github.com/YourUsername) |
+| **Google** | Software / Tech | Remote / Global | [View Google Careers](https://www.google.com/about/careers/applications/) | [@YourUsername](https://github.com/YourUsername) |
+| **Nvidia** | Data Science / Product | US / Hybrid | [View Nvidia Career Portal](https://example.com/careers) | [@YourUsername](https://github.com/YourUsername) |
 
 *(Want to add a company? Check out the contribution guide below!)*
 
